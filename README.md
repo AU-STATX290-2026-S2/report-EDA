@@ -34,8 +34,7 @@ code. If you find yourself opening a CSV in Excel to "fix" something, stop and w
 
 **Each** student should:
 
-1. Open the project in RStudio (create an `.Rproj` at this folder, or ensure your
-   working directory is this folder so `here()` resolves correctly).
+1. Open the project in RStudio by cloning your team's new repository locally.
 2. Install any required packages.
 
 Each team member may want to have their own copy of the `explore-poll-clean-data.qmd` to use.
