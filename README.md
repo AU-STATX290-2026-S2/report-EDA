@@ -8,6 +8,7 @@ A starting place for your EDA Report, focusing on data cleaning.
 ```
 eda_project/
 ├── README.md                     <- this file
+├── .gitignore                    <- default list of files that should not included on GitHub (only locally)
 ├── explore-poll-clean-data.qmd   <- data cleaning/eda exploration
 ├── clean-poll-data.R             <- fully reproducible record of final data cleaning process
 └── data/
